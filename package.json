@@ -1,0 +1,35 @@
+{
+  "name": "admin-vtn-shop",
+  "version": "1.0.0",
+  "dependencies": {
+    "@aspnet/signalr": "^1.1.2",
+    "@tinymce/tinymce-react": "^3.0.1",
+    "@wojtekmaj/react-daterange-picker": "^2.1.0",
+    "google-map-react": "^1.0.6",
+    "mdbreact": "^4.9.0",
+    "numeral": "^2.0.6",
+    "react": "^16.7.0",
+    "react-currency-format": "^1.0.0",
+    "react-dom": "^16.7.0",
+    "react-loading-screen": "0.0.17",
+    "react-router-dom": "^4.3.1",
+    "react-scripts": "^2.1.8",
+    "react-spinners": "^0.5.3",
+    "react-spinners-kit": "^1.9.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ],
+  "devDependencies": {
+    "regenerator-runtime": "^0.13.1"
+  }
+}
