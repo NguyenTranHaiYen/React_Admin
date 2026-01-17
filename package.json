@@ -13,7 +13,7 @@
     "react-dom": "^16.7.0",
     "react-loading-screen": "0.0.17",
     "react-router-dom": "^4.3.1",
-    "react-scripts": "^2.1.8",
+    "react-scripts": "^5.0.1",
     "react-spinners": "^0.5.3",
     "react-spinners-kit": "^1.9.0"
   },
